@@ -1,10 +1,13 @@
----
-id: about
-title: About
-slug: /about
-sidebar_position: 2
----
-
 # About
 
-This page contains information about the project, company, purpose, and how to use the site.
+Nodefusion Open Notes.
+
+Intention is public available usage for:
+
+* IT technical configuration and architecture design
+* Organization and business process documentation
+* Industry best practices and standards
+* Community knowledge sharing and collaborative learning
+* Open source insights and technical guides
+* Professional development resources
+* Public engagement and transparent knowledge distribution
