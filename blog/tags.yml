@@ -1,19 +1,14 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+general:
+  label: General
+  permalink: /general
+  description: General tag description
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+microsoft:
+  label: Microsoft
+  permalink: /microsoft
+  description: Microsoft
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+linux:
+  label: Linux
+  permalink: /linux
+  description: Linux

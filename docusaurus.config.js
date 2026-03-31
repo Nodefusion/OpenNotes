@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Nodefusion Blog',
-  tagline: 'Nodefusion knowledge base and blog',
+  title: 'Nodefusion Open Notes',
+  tagline: 'Nodefusion public knowledge base and blog',
   favicon: 'img/favicon.ico',
 
   url: 'https://open-notes.nodefusion.com',
@@ -133,7 +133,7 @@ const config = {
       items: [
         {
           to: '/blog',
-          label: 'Open Notes',
+          label: 'Blog',
           position: 'left',
         },
         {
@@ -171,7 +171,7 @@ const config = {
           title: 'More',
           items: [
             {
-              label: 'Open Notes',
+              label: 'Blog',
               to: '/blog',
             },
             {
