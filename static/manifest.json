@@ -1,0 +1,32 @@
+{
+    "short_name": "Nodefusion Open Notes",
+    "name": "Nodefusion Open Notes",
+    "icons": [
+      {
+        "src": "/img/nodefusion-account.png",
+        "type": "image/png",
+        "size": "648x648"
+      }
+    ],
+    "id": "/",
+    "start_url": "/",
+    "background_color": "#d37352",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#d37352",
+    "description": "Nodefusion Open Notes",
+    "screenshots": [
+      {
+        "src": "/img/screenshot1.jpeg",
+        "type": "image/jpeg",
+        "sizes": "1220x768",
+        "form_factor": "wide"
+      },
+      {
+        "src": "/img/screenshot2.png",
+        "type": "image/png",
+        "sizes": "256x568",
+        "form_factor": "narrow"
+      }
+    ]
+  }
