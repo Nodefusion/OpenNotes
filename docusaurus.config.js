@@ -103,8 +103,8 @@ const config = {
         blog: {
           showReadingTime: true,
           postsPerPage: 10,
-          blogSidebarTitle: 'Recent posts',
-          blogSidebarCount: 5,
+          blogSidebarTitle: 'Blog posts',
+          blogSidebarCount: 'ALL',
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,
