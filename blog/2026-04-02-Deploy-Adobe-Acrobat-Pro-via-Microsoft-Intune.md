@@ -1,3 +1,4 @@
+---
 title: Deploy Adobe Acrobat Pro via Microsoft Intune
 date: 2026-04-02
 author: hect6r
@@ -7,6 +8,7 @@ tags:
   - Adobe Acrobat
   - MDM
   - Enterprise Deployment
+---
 
 ## Overview
 
